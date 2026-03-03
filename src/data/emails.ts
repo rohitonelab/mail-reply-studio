@@ -482,6 +482,22 @@ export const emails: Email[] = [
     ],
   },
   {
+    id: "email-17",
+    from: "Netlify",
+    fromEmail: "team@netlify.com",
+    to: "me",
+    subject: "New blog post published",
+    body: "Hi,\n\nYour blog post \"Building Modern Web Apps\" has been published successfully.\n\nView it live at your site.\n\nNetlify Team",
+    snippet: "Your blog post \"Building Modern Web Apps\" has been published successfully.",
+    date: new Date("2026-02-24T17:35:00"),
+    read: false,
+    starred: false,
+    labels: [],
+    category: "promotions",
+  },
+  { id: "email-7", from: "PlacementAdmin@dtu", fromEmail: "admin.dtu.in", to: "me", subject: "message for new joinee students ", body: "Hey,\n\nyou'll guys  who have their onborading on companies still going are reqired to maintain trust. Your college is working on getting things sorted :\n\n1. The color palette looks great\n2. Consider increasing font size on mobile\n3. The CTA button could be more prominent\n\nLet me know your thoughts!\n\nEmily", snippet: "you'll guys  who have their onborading on companies...", date: new Date("2025-12-20T15:10:00"), read: true, starred: false, labels: [], category: "primary", replies: [ { id: "reply-7-1", from: "You", fromEmail: "rohitchakrabortydtu101@gmail.com", body: "So when will the date be decided for convocation", bodyImage: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=300&fit=crop", date: new Date("2025-12-20T16:00:00"), }, { id: "reply-7-2", from: "admin.dtu.in", fromEmail: "admin.dtu.in", body: "Don't worry we have communication with you respective companies.\n\n Also the degree's date of convocation will be extended by the amount of delay occuring! ", date: new Date("2025-12-20T16:30:00"), }, ], }, { id: "email-8", from: "Figma", fromEmail: "noreply@figma.com", to: "me", subject: "New comment on your document", body: "Hi,\n\nPriya Sharma left a comment on \"App Redesign v2\":\n\n\"Love the new navigation layout! Can we also add a dark mode toggle?\"\n\nView in Figma", snippet: "Priya Sharma left a comment on \"App Redesign v2\"...", date: new Date("2026-03-01T12:00:00"), read: false, starred: false, labels: [], category: "social", },
+  
+  {
     id: "email-22",
     from: "Intuit Freshers Recruitment",
     fromEmail: "talent.acquire@inuit.com",
