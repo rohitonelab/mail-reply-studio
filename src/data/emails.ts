@@ -449,7 +449,7 @@ export const emails: Email[] = [
     to: "me",
     subject: "Acceptance Email",
     body: "Dear Rohit,\n\nIntuit is very thrilled to have you onboard on our Associate Software developer team🥳.\n\nTeam will proceed the onboarding process and we'll let you know till we get all the necessary documents of yours registered.\n\nThanks!\nIntuit",
-    snippet: "",
+    snippet:"done",
     date: new Date("2025-07-24T11:20:00"),
     read: false,
     starred: false,
@@ -461,15 +461,15 @@ export const emails: Email[] = [
         from: "You",
         fromEmail: "rohitchakrabortydtu101@gmail.com",
         body: "Respected Sir/Mam ,our college degree was supposed to have the final convocation of 2025 but they had to postpone this beacuse of the regulatory compliance of Delhi govt amid high AQI levels so when would I get the joining letter ",
-        bodyImage:""
-        ,date: new Date("2026-1-08T12:00:00"),
+       
+        date: new Date("2026-1-08T12:00:00"),
       },
       {
         id: "reply-21-2",
         from: "Intuit",
         fromEmail: "intuit+autoreply@talent.iccms.com",
         body: "Yes! We got to hear that from your Training & Placement cell. So our  company has decided not to stretch the casualties that happened because of the AQI levels.We'll ensure seamless communication with your college in  this regard! ",
-        bodyImage: "",
+        
         date: new Date("2026-01-08T14:30:00"),
       },
       {
@@ -484,7 +484,7 @@ export const emails: Email[] = [
   {
     id: "email-22",
     from: "Intuit Freshers Recruitment",
-    fromEmail: "Talent.acquisition@inuit.com",
+    fromEmail: "talent.acquire@inuit.com",
     to: "me",
     subject: "Intuit Campus Recruitment Program .Interview for selceted candidates",
     body: "Dear Candidate Congratulations,hope you are doing well!\n\nWe had received your nomination from Intuit Campus Recruitment program 2024-25 .\n\nYou have been selected to proceed the further rounds of our hiring for the role Associate Software Developer. \n\n Here is the link for the online onterview commencing on",
