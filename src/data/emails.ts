@@ -444,8 +444,8 @@ export const emails: Email[] = [
   },
   {
     id: "email-21",
-    from: "Intuit@icms",
-    fromEmail: "intuit+autoreply@talent.icims.com",
+    from: "Intuit",
+    fromEmail: "intuitxautoreply@talent.iccms.com",
     to: "me",
     subject: "Acceptance Email",
     body: "Dear Rohit,\n\nIntuit is very thrilled to have you onboard on our Associate Software developer team🥳.\n\nTeam will proceed the onboarding process and we'll let you know till we get all the necessary documents of yours registered.\n\nThanks!\nIntuit",
@@ -466,8 +466,8 @@ export const emails: Email[] = [
       },
       {
         id: "reply-21-2",
-        from: "Intuit@icms",
-        fromEmail: "intuit+autoreply@talent.icims.com",
+        from: "Intuit",
+        fromEmail: "intuit+autoreply@talent.iccms.com",
         body: "Yes! We got to hear that from your Training & Placement cell. So our  company has decided not to stretch the casualties that happened because of the AQI levels.We'll ensure seamless communication with your college in  this regard! ",
         bodyImage: "",
         date: new Date("2026-01-08T14:30:00"),
