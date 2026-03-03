@@ -486,7 +486,7 @@ export const emails: Email[] = [
     from: "Netlify",
     fromEmail: "team@netlify.com",
     to: "me",
-    subject: "New blog post published",
+    subject: "New blog pobst published",
     body: "Hi,\n\nYour blog post \"Building Modern Web Apps\" has been published successfully.\n\nView it live at your site.\n\nNetlify Team",
     snippet: "Your blog post \"Building Modern Web Apps\" has been published successfully.",
     date: new Date("2026-02-24T17:35:00"),
