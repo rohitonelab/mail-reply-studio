@@ -449,7 +449,7 @@ export const emails: Email[] = [
     to: "me",
     subject: "Acceptance Email",
     body: "Dear Rohit,\n\nIntuit is very thrilled to have you onboard on our Associate Software developer team🥳.\n\nTeam will proceed the onboarding process and we'll let you know till we get all the necessary documents of yours registered.\n\nThanks!\nIntuit",
-    snippet:"done",
+    snippet:"Intuit is very thrilled to have you onboard on our Associate Software developer team🥳.\n\nTeam will proceed the onboarding process and we'll let you know till we get all the necessary documents of yours registered",
     date: new Date("2025-07-24T11:20:00"),
     read: false,
     starred: false,
