@@ -462,7 +462,7 @@ export const emails: Email[] = [
         fromEmail: "rohitchakrabortydtu101@gmail.com",
         body: "Respected Sir/Mam ,our college degree was supposed to have the final convocation of 2025 but they had to postpone this beacuse of the regulatory compliance of Delhi govt amid high AQI levels so when would I get the joining letter ",
        
-        date: new Date("2026-1-08T12:00:00"),
+        date: new Date("2026-01-08T12:00:00"),
       },
       {
         id: "reply-21-2",
