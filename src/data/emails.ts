@@ -479,6 +479,40 @@ export const emails: Email[] = [
         body: "Got it Sir thank you for clarification!",
         date: new Date("2026-01-08T15:43:00"),
       },
+       {
+        id: "reply-21-4",
+        from: "You",
+        fromEmail: "rohitchakrabortydtu101@gmail.com",
+        body: "Sir/Mam , here I have attatched my college degree ,please consider this and kindly tell me my Joining date at Intuit",
+        date: new Date("2026-05-08T15:43:00"),
+      },
+      {
+        id: "reply-21-5",
+       from: "Intuit",
+        fromEmail: "intuit+autoreply@talent.iccms.com",
+        body: " Your degree has been passed up to our team , we'll let you know the joining once the onboarding is done , that may take a few weeks.
+          For any queries mail us here.
+          Thank you!",
+        date: new Date("2026-06-08T08:47:00"),
+      },
+       {
+        id: "reply-21-6",
+        from: "You",
+        fromEmail: "rohitchakrabortydtu101@gmail.com",
+        body: " Sir/Mam  What'sthe update of my joining , may I know the reason for delay please?",
+        date: new Date("2026-06-03T11:43:00"),
+      },
+        {
+        id: "reply-21-7",
+       from: "Intuit",
+        fromEmail: "intuit+autoreply@talent.iccms.com",
+        body: " Mr. Rohit the onboarding process of your batch is going on .There is a slight delay because  we are merging  your batch into a new freshly reuired AI Engineering role.
+              So it might take a few days , please bear with us.
+      
+          For any queries mail us here.
+          Thank you!",
+        date: new Date("2026-06-04T12:26:00"),
+      }
     ],
   },
   {
